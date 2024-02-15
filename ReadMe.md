@@ -21,7 +21,9 @@ HuBERT operates by using an offline k-means clustering step to learn the structu
 Wav2Vec, developed by Facebook AI for Automatic Speech Recognition (ASR), is trained in two phases: self-supervised learning and supervised fine-tuning. The model learns to understand and represent speech audio, similar to how word embeddings represent text. It does this by processing unlabeled audio data. The key advantage of Wav2Vec 2.0 is its ability to learn good speech representations from a large amount of unlabeled data. This allows it to achieve state-of-the-art results even with a small amount of labeled data. It uses Word Error Rate (WER) to measure the performance of ASR models.
 
 **Problem:** Training Wav2Vec models is computationally intensive, necessitating high-performance hardware and considerable training duration.
+
 **Impact:** This could restrict the model's accessibility to individuals or organizations with limited resources.
+
 **Potential Solution:** Possible solutions could involve the use of cloud-based computing resources or optimizing the model to improve efficiency.
 
 ## Datasets
