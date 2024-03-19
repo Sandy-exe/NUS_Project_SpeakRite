@@ -1,7 +1,7 @@
 # SpeakRite Project
 
 ## Introduction
-In the SpeakRite project, I utilized the Whisper model for integrating speech-to-text functionality. Leveraging ASR (Automatic Speech Recognition) technology, the system translates spoken language into text. To enhance the accuracy and readability of the transcribed text, I employed Llama2 for grammatical error correction. Additionally, to facilitate interaction, the system incorporates GTTS (Google Text-to-Speech) to convert corrected text back into speech, aiding users in refining their English communication skills.
+In the SpeakRite project, I utilized the Whisper model for integrating speech-to-text functionality. Leveraging ASR (Automatic Speech Recognition) technology, the system translates spoken language into text. To enhance the accuracy and readability of the transcribed text, I employed Gpt-3.5 for grammatical error correction. Additionally, to facilitate interaction, the system incorporates GTTS (Google Text-to-Speech) to convert corrected text back into speech, aiding users in refining their English communication skills.
 
 ## Ideas
 
