@@ -40,4 +40,4 @@ Wav2Vec, developed by Facebook AI for Automatic Speech Recognition (ASR), is tra
 ## Screenshots
 
 ### SpeakRite Dashboard
-![SpeakRite Dashboard](screenshots/speakrite_dashboard.png)
+![SpeakRite Dashboard](https://github.com/Sandy-exe/NUS_Project_SpeakRite/assets/112242304/c04ea5c8-9a04-48f4-9595-bf58d42b480d)
