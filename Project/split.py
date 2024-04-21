@@ -9,6 +9,7 @@ os.makedirs(output_folder, exist_ok=True)
 # Sort the files in the source folder
 file_list = sorted(os.listdir(source_folder))
 
+
 # Split the files into subfolders
 num_files_per_subfolder = 50
 num_subfolders = len(file_list) // num_files_per_subfolder
